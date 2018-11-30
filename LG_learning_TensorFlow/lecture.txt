@@ -1,0 +1,6 @@
+공유 컴퓨터 : \T204-MA\
+
+p(현실시간 풀수 있는 문제, m^1, m^2, m^3, ) vs np (현실시간 풀수없는 문제, 2^m, 3m, M!)
+
+pytalk - 사용하기 쉬움, 동적, facebook
+tensorflow - 정적, 호환성, google..
